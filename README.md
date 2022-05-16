@@ -6,6 +6,7 @@ Entrega primer Trabajo (HTML) : 31/03/2022
 
 # PRACTICA 06 DATABASE SCREENSHOT
 
-![Alt text](/HomeWork/PHP/Pract_06_Database/create.png?raw=true "Form create City")
-![Alt text](/HomeWork/PHP/Pract_06_Database/edit.png?raw=true "Form edit City")
-![Alt text](/HomeWork/PHP/Pract_06_Database/show.png?raw=true "List Cities")
+<img src='HomeWork/PHP/Pract_06_Database/create.png'  />
+![](/HomeWork/PHP/Pract_06_Database/create.png?raw=true "Form create City")
+![](/HomeWork/PHP/Pract_06_Database/edit.png?raw=true "Form edit City")
+![](/HomeWork/PHP/Pract_06_Database/show.png?raw=true "List Cities")
